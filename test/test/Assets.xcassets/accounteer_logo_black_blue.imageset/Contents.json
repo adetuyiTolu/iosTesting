@@ -1,0 +1,27 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 139,
+          "top" : 139,
+          "right" : 750,
+          "left" : 749
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "accounteer_logo_black_blue.png",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
